@@ -16,10 +16,10 @@
 //     return newArr;
 // }
 
-// console.log(each([64, 49, 25, 16, 4], function(value) {
-//     return value * 2;
-// }));
-
+/*console.log(each([64, 49, 25, 16, 4], function(value) {
+    return value * 2;
+}));*/
+<!-- створюємо змінну з ім'ям element-->
 // console.log(each([64, 49, 25, 16, 4], function(num) {
 //     return num - 10;
 // }));
